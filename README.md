@@ -67,12 +67,13 @@ CLIENT_URL=http://localhost:3000            # Frontend URL for CORS (optional)
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/task-management-api.git](https://github.com/mariamsamaha/MindTick.git)
+   git clone [https://github.com/mariamsamaha/MindTick.git]
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd task-management-api
+   cd MindTick
+
    ```
 
 3. **Install dependencies:**
